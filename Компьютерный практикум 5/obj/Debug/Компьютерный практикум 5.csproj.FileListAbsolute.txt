@@ -5,3 +5,10 @@ D:\12.03.2024\Компьютерный практикум 5\obj\Debug\Компь
 D:\12.03.2024\Компьютерный практикум 5\obj\Debug\Компьютерный практикум 5.csproj.CoreCompileInputs.cache
 D:\12.03.2024\Компьютерный практикум 5\obj\Debug\Компьютерный практикум 5.exe
 D:\12.03.2024\Компьютерный практикум 5\obj\Debug\Компьютерный практикум 5.pdb
+C:\Users\Kab-31-13\Desktop\18-5--main\Компьютерный практикум 5\bin\Debug\Компьютерный практикум 5.exe.config
+C:\Users\Kab-31-13\Desktop\18-5--main\Компьютерный практикум 5\bin\Debug\Компьютерный практикум 5.exe
+C:\Users\Kab-31-13\Desktop\18-5--main\Компьютерный практикум 5\bin\Debug\Компьютерный практикум 5.pdb
+C:\Users\Kab-31-13\Desktop\18-5--main\Компьютерный практикум 5\obj\Debug\Компьютерный практикум 5.csproj.AssemblyReference.cache
+C:\Users\Kab-31-13\Desktop\18-5--main\Компьютерный практикум 5\obj\Debug\Компьютерный практикум 5.csproj.CoreCompileInputs.cache
+C:\Users\Kab-31-13\Desktop\18-5--main\Компьютерный практикум 5\obj\Debug\Компьютерный практикум 5.exe
+C:\Users\Kab-31-13\Desktop\18-5--main\Компьютерный практикум 5\obj\Debug\Компьютерный практикум 5.pdb

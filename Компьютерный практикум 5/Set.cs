@@ -42,15 +42,15 @@ namespace Компьютерный_практикум_5
         /// Метод для вывода информации о просроченности 
         /// </summary>
         /// <returns></returns>
-        public override bool DeadLineExpirationDate()
+        public override string DeadLineExpirationDate()
         {
             if (DateTime.Now > Date.AddMonths(Time))
             {
-                return true;
+                return " ";
             }
             else
             {
-                return false;
+                return $"Просроченный товар: {Name}";
             }
         }
         /// <summary>

@@ -34,13 +34,16 @@ namespace Компьютерный_практикум_5
                             Console.WriteLine("Товар введен некорректно");
                             break;
                     }
+                  
+                    foreach (var elem in commoditys)
+                    {
+                        elem.Print();
+                      //  Console.WriteLine("Просроченные продукты: ");
+                      //  elem.DeadLineExpirationDate();
+                    }
+              
+                    Console.ReadKey();
                 }
-                foreach (var elem in commoditys)
-                {
-                    elem.Print();
-                }
-
-                Console.ReadKey();
             }
         }
     

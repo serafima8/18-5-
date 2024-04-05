@@ -41,6 +41,6 @@ namespace Компьютерный_практикум_5
         /// Создание абстрактного метода для вывода просроченных продуктов
         /// </summary>
         /// <returns></returns>
-        abstract public bool DeadLineExpirationDate();
+        abstract public string DeadLineExpirationDate();
     }
 }
